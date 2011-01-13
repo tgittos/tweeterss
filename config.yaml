@@ -1,0 +1,12 @@
+#Tweeterss config file
+twitter:
+    username:   username
+    password:   password
+    delay:      5
+    
+timestamp:      timestamp
+
+feeds:
+    feed:
+        url:    http://playwitter.com/feed/
+        hash:   gamedev

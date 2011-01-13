@@ -1,0 +1,21 @@
+tweeterss
+=========
+
+tweeterss is a small Ruby application that takes an RSS feed and tweets new entries through the Twitter API.
+
+Requirements
+============
+
+Ruby 1.8
+A Twitter account
+A cron job to periodically call the code
+
+Features
+========
+* YAML configuration
+
+Installation
+============
+1. Copy files to server
+2. Enter details into configuration
+3. Set up cron job to run periodically
